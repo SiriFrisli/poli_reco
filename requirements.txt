@@ -6,4 +6,5 @@ matplotlib==3.8.4
 pillow===9.4.0
 beautifulsoup4==4.9.3
 scikit-learn==1.5.2
+facenet-pytorch==2.6.0
 ultralytics
