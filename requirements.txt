@@ -8,3 +8,4 @@ beautifulsoup4==4.9.3
 scikit-learn==1.5.2
 facenet-pytorch==2.6.0
 ultralytics
+transformers==4.45.2
