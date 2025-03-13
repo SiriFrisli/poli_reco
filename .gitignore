@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+best_model.pth
+poli_reco.Rproj
+politician_classification_model.pth
